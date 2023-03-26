@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhicheng Pan (潘志诚 in Chinese) is a First-year Ph.D student at School of Data Science and Engineering, [East China Normal University (ECNU)](https://english.ecnu.edu.cn/). He is currently a joint Ph.D with [PingCAP](https://www.pingcap.com/), also worked as a Data Dev intern in [Taobao](https://www.taobao.com/) and a Research intern in [Alibaba Cloud](https://www.aliyun.com/). He botained both of his M.S. degree (2022) and B.S. degree (2019) from School of Computer Science and Technology, [Soochow University](https://www.suda.edu.cn/). His research interests focus on in-database machine learning, and implementing database internals with AI. 
+Zhicheng Pan (潘志诚 in Chinese) is a First-year Ph.D student at School of Data Science and Engineering, [East China Normal University (ECNU)](https://english.ecnu.edu.cn/). He is currently a ECNU-[PingCAP](https://www.pingcap.com/) joint Ph.D, used to be a Data Dev intern in [Taobao](https://www.taobao.com/) and a Research intern in [Alibaba Cloud](https://www.aliyun.com/). He botained both of his M.S. degree (2022) and B.S. degree (2019) from School of Computer Science and Technology, [Soochow University](https://www.suda.edu.cn/). His research interests focus on in-database machine learning, and implementing database internals with AI. 
 
 Publications
 ------
