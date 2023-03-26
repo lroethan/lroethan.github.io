@@ -22,3 +22,9 @@ Publications
 8. Chunhui Feng, **Zhicheng Pan**, Junhua Fang, Pingfu Chao, An Liu, Lei Zhao. *A Learning-based Approach for Multi-scenario Trajectory Similarity Search.* WISE（2022）. 
 9. Yang Wu, Junhua Fang, Pingfu Chao, **Zhicheng Pan**, Wei Chen, Lei Zhao. *Towards Adaptive Continuous Trajectory Clustering over Distributed Web Data Stream.* JWE. Under Review.
 10. Yang Wu, **Zhicheng Pan**, Pingfu Chao, Junhua Fang, Wei Chen, Lei Zhao *Lunatory: A Real-Time Distributed Trajectory Clustering Framework for Web Big Data.* ICWE（2022）.vol 13362
+
+Honors
+------
+1. 信息技术 通用时空信息应用支撑平台参考架构 [S]. 电子信息学会标准.（主要主笔人）
+2. 主持“面向大规模轨迹流数据的分布式实时管理及查询研究”. 江苏省研究生实践创新计划项目(编号:SJCX211342，项目经费 1.5 万元)
+3. 苏州大学优秀毕业生（2019&2022）
