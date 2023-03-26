@@ -1,51 +1,24 @@
 ---
 permalink: /
-title: "Zirui Hu"
+title: "Zhicheng Pan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hu Zirui (2001.02), received his B.Eng. degree (2018 - 2022) from  [Software Engineering College](http://www.sei.ecnu.edu.cn/) and [Department of Chinese Language and Literature](https://zhwx.ecnu.edu.cn/) in [East China Normal University](https://www.ecnu.edu.cn/) in 2022.
-He is studying for his doctorate in [DBHammer](https://dbhammer.github.io/) research group at [Data Science and Engineering College](http://dase.ecnu.edu.cn/) at East China Normal University (2022 - ).
 
-His research focuses on database kernel technology, especially for HTAP database optimization, benchmark design and ai4db.
-
-Selected Awards
-======
-1. 2022 [**Runner-up** of the First OceanBase Database Challenge](https://github.com/Wind-Gone/OceanBase-Contest-Miniob)
-2. 2022 [**11th place** in the Preliminary Round of the TiDB Hackathon Contest](https://gist.github.com/Dousir9/3600403b85739a8653906e89fa6371bd)
-3. 2022 [VLDB Summer School **First Prize Excellent Student & Active Participation Award**](https://github.com/Wind-Gone/VLDBSS2022-ECNU-DaSE)
-4. 2022 Yangtze River Delta Fintech Global Challenge **College Student Innovation Award**
-5. 2022 **Outstanding Graduate** of Shanghai Province
-6. 2021 **Second prize** in China College Student Computer Design Competition
-7. 2021 **Second prize** of Shanghai University Students' Cultural and Creative Works Exhibition
-8. 2021 **Second Prize** in MathorCup University Mathematical Modeling Challenge
-9. 2020 **Excellent Student** of Bytedance FeiShu Training Camp
-10. 2019 **Third prize** in English Speech Contest of Foreign Research Institute of ECNU
-11. 2019-2021 **First-Class Scholarship** in ECNU
-12. 2018-2021 **Outstanding Student** in Software and Engineering College of ECNU
+Zhicheng Pan (潘志诚 in Chinese) is a First-year Ph.D student at School of Data Science and Engineering, [East China Normal University (ECNU)](https://english.ecnu.edu.cn/). He botained both of his M.S. degree (2022) and B.S. degree (2019) from School of Computer Science and Technology, [Soochow University](https://www.suda.edu.cn/). His research interests focus on in-database machine learning, and implementing database internals with AI. 
 
 Publications
-======
-- **胡梓锐**，翁思扬，王清帅，俞融，徐金凯，张蓉，周烜. HTAP数据库系统数据共享模型与优化策略，软件学报，2023 
-
-Teaching Experience
-======
-- PingCAP Talent Plan Tutor (Theme: Cardinality/Cost Estimation Based on Learning) @ Shanghai, ECNU, 2022, Winter
-- Teaching Assistant of Volunteer Teaching Summer Vocation @ Jiangxi Shangrao, ECNU, 2019 Spring.
-
-<!-- Personal Interests
-======
-- 🏀 Basketball
-- 🏸 Badmiton
-- 🏊‍♂️ Swimming
-- 🎸 Guitar
-- 🎹 Pinao
-- ✍️ Calligraphy -->
-
-Contact
-======
-- WeChat: hzr1242378947
-- Zhihu: [Wind-Gone](https://www.zhihu.com/people/hhhuhuh)
+------
+1. **Zhicheng Pan**, Yihang Wang, Yingying Zhang, Sean Bin Yang, Peng Chen, Yunyao Cheng, Chenjuan Guo, Qingsong Wen, Xiduo Tian, Yunliang Dou, Zhiqiang Zhou, Chengcheng Yang, Aoying Zhou, Bin Yang. *MagicScaler: Uncertainty-aware, Predictive Autoscaling.* VLDB. 2023. Under Review
+2. **Zhicheng Pan**, Junhua Fang, Pingfu Chao, Weichen, Jiajie Xu, Lei Zhao. *Garden: A Real-time Processing Framework for Continuous Top-k Trajectory Similarity Search.* KAIS. 2023. Accepted
+3. **Zhicheng Pan**, Pingfu Chao, Junhua Fang, Wei Chen, Zhixu Li, An Liu. *TraSP: A General Framework for Online Trajectory Similarity Processing.* WISE (1) 2020: 384-397
+4. Chunhui Feng, **Zhicheng Pan**, Junhua Fang, Jiajie Xu, Pengpeng Zhao, Lei Zhao. *Aries: Accurate Metric-based Representation Learning for Fast Top-k Trajectory Similarity Query.* CIKM (2022). Accepted.
+5. Jiachun Tao, **Zhicheng Pan**, Junhua Fang, Pingfu Chao, Pengpeng Zhao, Jiajie Xu. *Misty: Microservice-based Streaming Trajectory Similarity Search.* ICSOC（2022）.Accepted
+6. Yue Xia, Junhua Fang, Pingfu Chao, **Zhicheng Pan**, Jedi S. Shang. *Cost-effective and adaptive clustering algorithm for stream processing on cloud system.* GeoInformatica (2021): 1-21.
+7. Juntian Shi, **Zhicheng Pan**, Junhua Fang, Pingfu Chao. *RUTOD: real-time urban traffic outlier detection on streaming trajectory.* Neural Computing and Applications (2021): 1-13.
+8. Chunhui Feng, **Zhicheng Pan**, Junhua Fang, Pingfu Chao, An Liu, Lei Zhao. *A Learning-based Approach for Multi-scenario Trajectory Similarity Search.* WISE（2022）. Accepted.
+9. Yang Wu, Junhua Fang, Pingfu Chao, **Zhicheng Pan**, Wei Chen, Lei Zhao. *Towards Adaptive Continuous Trajectory Clustering over Distributed Web Data Stream.* JWE. Under Review.
+10. Yang Wu, **Zhicheng Pan**, Pingfu Chao, Junhua Fang, Wei Chen, Lei Zhao *Lunatory: A Real-Time Distributed Trajectory Clustering Framework for Web Big Data.* ICWE（2022）.vol 13362
