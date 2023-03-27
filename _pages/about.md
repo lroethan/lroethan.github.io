@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhicheng Pan (潘志诚 in Chinese) is a First-year Ph.D student at School of Data Science and Engineering, [East China Normal University (ECNU)](https://english.ecnu.edu.cn/). He is currently a ECNU-[PingCAP](https://www.pingcap.com/) joint Ph.D, used to be a Data Dev intern in [Taobao](https://www.taobao.com/) and a Research intern in [Alibaba Cloud](https://www.aliyun.com/). He botained both of his M.S. degree (2022) and B.S. degree (2019) from School of Computer Science and Technology, [Soochow University](https://www.suda.edu.cn/). His research interests focus on in-database machine learning, and implementing database internals with AI. 
+Zhicheng Pan (潘志诚 in Chinese) is a First-year Ph.D student at School of Data Science and Engineering, [East China Normal University (ECNU)](https://english.ecnu.edu.cn/). He is currently a ECNU-[PingCAP](https://www.pingcap.com/) joint Ph.D, used to be a Data Dev intern in [Taobao](https://www.taobao.com/) and a Research intern in [Alibaba Cloud](https://www.aliyun.com/). He botained both of his M.S. degree (2022) and B.S. degree (2019) from School of Computer Science and Technology, [Soochow University](https://www.suda.edu.cn/). His current research interests focus on AI4DB. 
 
 Publications
 ------
@@ -25,6 +25,6 @@ Publications
 
 Honors
 ------
-1. 信息技术 通用时空信息应用支撑平台参考架构 [S]. 电子信息学会标准.（主要主笔人）
-2. 主持“面向大规模轨迹流数据的分布式实时管理及查询研究”. 江苏省研究生实践创新计划项目(编号:SJCX211342，项目经费 1.5 万元)
-3. 苏州大学优秀毕业生（2019&2022）
+1. 国家/行业标准《信息技术 通用时空信息应用支撑平台参考架构》主要执笔人
+2. 主持江苏省研究生实践创新计划项目“面向大规模轨迹流数据的分布式实时管理及查询研究”（编号:SJCX211342，项目经费 1.5 万元）
+3. 苏州大学优秀毕业生（2019 & 2022）
