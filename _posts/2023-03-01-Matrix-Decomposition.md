@@ -1,10 +1,12 @@
 ---
-title: '矩阵分解'
+title: '矩阵分解常见例题'
 date: 2023-03-01
 permalink: /posts/2023/03/Matrix-Decomposition
 tags:
   - Matrix decomposition
 ---
+
+记录矩阵分解的一些例题
 
 # 矩阵分解
 
