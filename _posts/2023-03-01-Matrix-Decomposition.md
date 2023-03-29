@@ -1,11 +1,9 @@
 ---
 title: '矩阵分解'
-date: 2023-03-02
-permalink: /posts/Matrix-Decomposition
+date: 2023-03-01
+permalink: /posts/2023/03/Matrix-Decomposition
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Matrix decomposition
 ---
 
 # 矩阵分解
