@@ -20,7 +20,7 @@ Publications
 6. Yue Xia, Junhua Fang, Pingfu Chao, **Zhicheng Pan**, Jedi S. Shang. *Cost-effective and adaptive clustering algorithm for stream processing on cloud system.* GeoInformatica. 2021.
 7. Juntian Shi, **Zhicheng Pan**, Junhua Fang, Pingfu Chao. *RUTOD: real-time urban traffic outlier detection on streaming trajectory.* Neural Computing and Applications. 2021.
 8. Chunhui Feng, **Zhicheng Pan**, Junhua Fang, Pingfu Chao, An Liu, Lei Zhao. *A Learning-based Approach for Multi-scenario Trajectory Similarity Search.* WISE. 2022. 
-9. Yang Wu, Junhua Fang, Pingfu Chao, **Zhicheng Pan**, Wei Chen, Lei Zhao. *Towards Adaptive Continuous Trajectory Clustering over Distributed Web Data Stream.* JWE. 2023. Under Review.
+9. Yang Wu, Junhua Fang, Pingfu Chao, **Zhicheng Pan**, Wei Chen, Lei Zhao. *Towards Adaptive Continuous Trajectory Clustering over Distributed Web Data Stream.* Journal of Web Engineering. 2023.
 10. Yang Wu, **Zhicheng Pan**, Pingfu Chao, Junhua Fang, Wei Chen, Lei Zhao *Lunatory: A Real-Time Distributed Trajectory Clustering Framework for Web Big Data.* ICWE. 2022.
 
 Projects
