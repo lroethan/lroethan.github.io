@@ -12,7 +12,7 @@ Zhicheng Pan (潘志诚 in Chinese) is a First-year Ph.D student at School of Da
 
 Publications
 ------
-1. **Zhicheng Pan**, Yihang Wang, Yingying Zhang, Sean Bin Yang, Peng Chen, Yunyao Cheng, Chenjuan Guo, Qingsong Wen, Xiduo Tian, Yunliang Dou, Zhiqiang Zhou, Chengcheng Yang, Aoying Zhou, Bin Yang. *MagicScaler: Uncertainty-aware, Predictive Autoscaling.* VLDB. 2023. Under Review
+1. **Zhicheng Pan**, Yihang Wang, Yingying Zhang, Sean Bin Yang, Peng Chen, Yunyao Cheng, Chenjuan Guo, Qingsong Wen, Xiduo Tian, Yunliang Dou, Zhiqiang Zhou, Chengcheng Yang, Aoying Zhou, Bin Yang. *MagicScaler: Uncertainty-aware, Predictive Autoscaling.* VLDB. 2023. 
 2. **Zhicheng Pan**, Junhua Fang, Pingfu Chao, Weichen, Jiajie Xu, Lei Zhao. *Garden: A Real-time Processing Framework for Continuous Top-k Trajectory Similarity Search.* KAIS. 2023. 
 3. **Zhicheng Pan**, Pingfu Chao, Junhua Fang, Wei Chen, Zhixu Li, An Liu. *TraSP: A General Framework for Online Trajectory Similarity Processing.* WISE. 2020.
 4. Chunhui Feng, **Zhicheng Pan**, Junhua Fang, Jiajie Xu, Pengpeng Zhao, Lei Zhao. *Aries: Accurate Metric-based Representation Learning for Fast Top-k Trajectory Similarity Query.* CIKM. 2022. 
