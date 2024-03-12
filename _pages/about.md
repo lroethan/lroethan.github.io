@@ -23,6 +23,11 @@ Publications
 9. Yang Wu, Junhua Fang, Pingfu Chao, **Zhicheng Pan**, Wei Chen, Lei Zhao. *Towards Adaptive Continuous Trajectory Clustering over Distributed Web Data Stream.* Journal of Web Engineering. 2023.
 10. Yang Wu, **Zhicheng Pan**, Pingfu Chao, Junhua Fang, Wei Chen, Lei Zhao. *Lunatory: A Real-Time Distributed Trajectory Clustering Framework for Web Big Data.* ICWE. 2022.
 11. Chongjiong Fan, **Zhicheng Pan** (Co-first Author), Yingying Zhang, Lunting Fan, Chengcheng Yang, Qingsong Wen. *HANTune: Cost-effective Heterogeneous Knob Tuning on Cloud Database*. ICDE. 2024. Under Review
+12. Hyper
+13. LATuner
+14. Unity
+15. SMA-DTW
+16. PHS
 
 Projects
 ------
