@@ -22,7 +22,7 @@ Publications
 8. Chunhui Feng, **Zhicheng Pan**, Junhua Fang, Pingfu Chao, An Liu, Lei Zhao. *A Learning-based Approach for Multi-scenario Trajectory Similarity Search.* WISE. 2022. 
 9. Yang Wu, Junhua Fang, Pingfu Chao, **Zhicheng Pan**, Wei Chen, Lei Zhao. *Towards Adaptive Continuous Trajectory Clustering over Distributed Web Data Stream.* Journal of Web Engineering. 2023.
 10. Yang Wu, **Zhicheng Pan**, Pingfu Chao, Junhua Fang, Wei Chen, Lei Zhao. *Lunatory: A Real-Time Distributed Trajectory Clustering Framework for Web Big Data.* ICWE. 2022.
-11. Chongjiong Fan, **Zhicheng Pan** (Co-first Author), Yingying Zhang, Lunting Fan, Chengcheng Yang, Qingsong Wen. .
+11. Chongjiong Fan, **Zhicheng Pan** (Co-first Author), Yingying Zhang, Lunting Fan, Chengcheng Yang, Qingsong Wen. 
 12. Hyper
 13. LATuner. ECML-PKDD. 2024.
 14. Unity
@@ -30,10 +30,12 @@ Publications
 16. PHS
 17. CF-TS
 18. OTC 
+19. VLDB demo
 
 Projects
 ------
-1. 国家/行业标准《信息技术 通用时空信息应用支撑平台参考架构》（主要执笔人）
-2. 江苏省研究生实践创新计划项目“面向大规模轨迹流数据的分布式实时管理及查询研究”（主持）
-3. 2023年度中国数据库学院暑期学校优秀学员一等奖
-4. 2023年学生科创成果展“自治云原生数据库系统研究”，最受欢迎奖
+1. 优秀博士创新提升项目，主持
+2. 国家/行业标准《信息技术 通用时空信息应用支撑平台参考架构》（主要执笔人）
+3. 江苏省研究生实践创新计划项目“面向大规模轨迹流数据的分布式实时管理及查询研究”（主持）
+4. 2023年度中国数据库学院暑期学校优秀学员一等奖
+5. 2023年学生科创成果展“自治云原生数据库系统研究”，最受欢迎奖
