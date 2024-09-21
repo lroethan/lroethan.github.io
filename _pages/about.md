@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Z Pan (潘志诚 in Chinese) is a Third-year Ph.D student at School of Data Science and Engineering, [East China Normal University (ECNU)](https://english.ecnu.edu.cn/). He is currently an ECNU-[PingCAP](https://www.pingcap.com/) joint Ph.D, used to be a Data Dev intern in [Taobao](https://www.taobao.com/) and a Research intern in [Alibaba Cloud](https://www.aliyun.com/). He obtained both of his M.S. degree (2022) and B.S. degree (2019) from School of Computer Science and Technology, [Soochow University](https://www.suda.edu.cn/). His current research interests focus on AI4DB. 
+Zhicheng Pan (潘志诚 in Chinese) is a Third-year Ph.D student at School of Data Science and Engineering, [East China Normal University (ECNU)](https://english.ecnu.edu.cn/). He is currently an ECNU-[PingCAP](https://www.pingcap.com/) joint Ph.D, used to be a Data Dev intern in [Taobao](https://www.taobao.com/) and a Research intern in [Alibaba Cloud](https://www.aliyun.com/). He obtained both of his M.S. degree (2022) and B.S. degree (2019) from School of Computer Science and Technology, [Soochow University](https://www.suda.edu.cn/). His current research interests focus on AI4DB. 
 
 Publications (<sup>#</sup>Co-first Author)
 ------
@@ -35,8 +35,10 @@ Publications (<sup>#</sup>Co-first Author)
 
 Projects
 ------
-1. 优秀博士创新提升项目，主持
+1. 华东师范大学“优秀博士生学术创新能力提升计划”（主持）
 2. 国家/行业标准《信息技术 通用时空信息应用支撑平台参考架构》（主要执笔人）
 3. 江苏省研究生实践创新计划项目“面向大规模轨迹流数据的分布式实时管理及查询研究”（主持）
 4. 2023年度中国数据库学院暑期学校优秀学员一等奖
-5. 2023年学生科创成果展“自治云原生数据库系统研究”，最受欢迎奖
+5. 2023年数据科学与工程学院企业奖学金一等奖
+6. 2023年学生科创成果展“自治云原生数据库系统研究”，最受欢迎奖
+7. 入选第四届CCF优秀大学生学术秀
