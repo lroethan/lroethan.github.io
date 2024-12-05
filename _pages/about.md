@@ -31,9 +31,10 @@ Publications (<sup>#</sup>Co-first Author)
 17. Y Ban<sup>#</sup>, **Z Pan**<sup>#</sup>. SMA-DTW (WWWJ Under Review)
 18. CF-TS (DASFAA Under Review)
 19. SeeD (TKDE Under Review) 
-20. Demo (ICDE Under Review)
+20. XXX Demo (ICDE Demo Under Review)
+21. Z Hu, S Wen, **Z Pan**. (xxx Under Review)
 
-Projects
+Others
 ------
 1. 华东师范大学“优秀博士生学术创新能力提升计划”（主持）
 2. 国家/行业标准《信息技术 通用时空信息应用支撑平台参考架构》（主要执笔人）
@@ -41,5 +42,5 @@ Projects
 4. 2023年度中国数据库学院暑期学校优秀学员一等奖
 5. 2023年数据科学与工程学院企业奖学金一等奖
 6. 2023年学生科创成果展“自治云原生数据库系统研究”，最受欢迎奖
-7. 2024优秀学生
-8. 入选第四届CCF优秀大学生学术秀
+7. 华东师范大学“优秀学生”称号（2024）
+8. 入选第四届CCF优秀大学生学术秀 (2024)
