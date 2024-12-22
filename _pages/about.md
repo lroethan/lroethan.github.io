@@ -16,23 +16,24 @@ Publications (<sup>#</sup>Co-first Author)
 2. **Z Pan**, Y Zhang, C Yang, A Ghazal, R Zhang, H Hu, X Wu, Y Dong, X Zhou. *Hyper: Hybrid Physical Design Advisor with Multi-agent Reinforcement Learning.* ICDE. 2025. Accepted. 
 3. **Z Pan**, J Fang, P Chao, W chen, J Xu, L Zhao. *Garden: A Real-time Processing Framework for Continuous Top-k Trajectory Similarity Search.* KAIS. 2023. 
 4. **Z Pan**, P Chao, J Fang, W Chen, Z Li, A Liu. *TraSP: A General Framework for Online Trajectory Similarity Processing.* WISE. 2020. 
-5. C Fan<sup>#</sup>, **Z Pan**<sup>#</sup>, W Sun, C Yang, WN Chen. LATuner: an LLM-enhanced database tuning system based on adaptive surrogate model. ECML. 2024.
-6. C Feng, **Z Pan**, J Fang, J Xu, P Zhao, L Zhao. *Aries: Accurate Metric-based Representation Learning for Fast Top-k Trajectory Similarity Query.* CIKM. 2022. 
-7. J Tao, **Z Pan**, J Fang, P Chao, P Zhao, J Xu. *Misty: Microservice-based Streaming Trajectory Similarity Search.* ICSOC. 2022.
-8. T Gu, J Fang, **Z Pan**, Y Wu, Y Ban, P Chao, L Zhao. *HPS: A novel heuristic hierarchical pruning strategy for dynamic top-k trajectory similarity query.* IPM. 2024.
-9. Y Xia, J Fang, P Chao, **Z Pan**, J S. Shang. *Cost-effective and adaptive clustering algorithm for stream processing on cloud system.* GeoInformatica. 2021.
-10. J Shi, **Z Pan**, J Fang, P Chao. *RUTOD: real-time urban traffic outlier detection on streaming trajectory.* Neural Computing and Applications. 2021.
-11. C Feng, **Z Pan**, J Fang, P Chao, A Liu, L Zhao. *A Learning-based Approach for Multi-scenario Trajectory Similarity Search.* WISE. 2022. 
-12. Y Wu, J Fang, P Chao, **Z Pan**, W Chen, L Zhao. *Towards Adaptive Continuous Trajectory Clustering over Distributed Web Data Stream.* Journal of Web Engineering. 2023.
-13. Y Wu, **Z Pan**, P Chao, J Fang, W Chen, L Zhao. *Lunatory: A Real-Time Distributed Trajectory Clustering Framework for Web Big Data.* ICWE. 2022.
-14. C Fan<sup>#</sup>, **Z Pan**<sup>#</sup>, Y Zhang, L Fan, Q Wen. HANTUNE
-15. **Z Pan**. Unity (Writing)
-16. W Sun<sup>#</sup>, **Z Pan**<sup>#</sup>. Rabbit (ICDE Under Review)
-17. Y Ban<sup>#</sup>, **Z Pan**<sup>#</sup>. SMA-DTW (WWWJ Under Review)
-18. CF-TS (DASFAA Under Review)
-19. SeeD (TKDE Under Review) 
-20. XXX Demo (ICDE Demo Under Review)
-21. Z Hu, S Wen, **Z Pan**. (xxx Under Review)
+5. X Qiu<sup>#</sup>, X Li<sup>#</sup>, Ruiyang Pang<sup>#</sup>, **Z Pan**<sup>#</sup>, X Wu<sup>#</sup>, L Yang<sup>#</sup>, J Hu, Y Shu, X Lu,C Yang, C Guo, A Zhou, C S. Jensen, B Yang. *EasyTime: Time Series Forecasting Made Easy.* ICDE. 2025. Accepted.
+6. C Fan<sup>#</sup>, **Z Pan**<sup>#</sup>, W Sun, C Yang, WN Chen. LATuner: an LLM-enhanced database tuning system based on adaptive surrogate model. ECML. 2024.
+7. C Feng, **Z Pan**, J Fang, J Xu, P Zhao, L Zhao. *Aries: Accurate Metric-based Representation Learning for Fast Top-k Trajectory Similarity Query.* CIKM. 2022. 
+8. J Tao, **Z Pan**, J Fang, P Chao, P Zhao, J Xu. *Misty: Microservice-based Streaming Trajectory Similarity Search.* ICSOC. 2022.
+9. T Gu, J Fang, **Z Pan**, Y Wu, Y Ban, P Chao, L Zhao. *HPS: A novel heuristic hierarchical pruning strategy for dynamic top-k trajectory similarity query.* IPM. 2024.
+10. Y Xia, J Fang, P Chao, **Z Pan**, J S. Shang. *Cost-effective and adaptive clustering algorithm for stream processing on cloud system.* GeoInformatica. 2021.
+11. J Shi, **Z Pan**, J Fang, P Chao. *RUTOD: real-time urban traffic outlier detection on streaming trajectory.* Neural Computing and Applications. 2021.
+12. C Feng, **Z Pan**, J Fang, P Chao, A Liu, L Zhao. *A Learning-based Approach for Multi-scenario Trajectory Similarity Search.* WISE. 2022. 
+13. Y Wu, J Fang, P Chao, **Z Pan**, W Chen, L Zhao. *Towards Adaptive Continuous Trajectory Clustering over Distributed Web Data Stream.* Journal of Web Engineering. 2023.
+14. Y Wu, **Z Pan**, P Chao, J Fang, W Chen, L Zhao. *Lunatory: A Real-Time Distributed Trajectory Clustering Framework for Web Big Data.* ICWE. 2022.
+15. C Fan<sup>#</sup>, **Z Pan**<sup>#</sup>, Y Zhang, L Fan, Q Wen. HANTUNE
+16. **Z Pan**. Unity (Writing)
+17. W Sun<sup>#</sup>, **Z Pan**<sup>#</sup>. Rabbit (ICDE Under Review)
+18. Y Ban<sup>#</sup>, **Z Pan**<sup>#</sup>. SMA-DTW (WWWJ Under Review)
+19. CF-TS (DASFAA Under Review)
+20. SeeD (TKDE Under Review) 
+21. XXX Demo (ICDE Demo Under Review)
+22. Z Hu, S Wen, **Z Pan**. (xxx Under Review)
 
 Others
 ------
