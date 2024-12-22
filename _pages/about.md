@@ -32,8 +32,7 @@ Publications (<sup>#</sup>Co-first Author)
 18. Y Ban<sup>#</sup>, **Z Pan**<sup>#</sup>. SMA-DTW (WWWJ Under Review)
 19. CF-TS (DASFAA Under Review)
 20. SeeD (TKDE Under Review) 
-21. XXX Demo (ICDE Demo Under Review)
-22. Z Hu, S Wen, **Z Pan**. (xxx Under Review)
+21. Z Hu, S Wen, **Z Pan**. (xxx Under Review)
 
 Others
 ------
