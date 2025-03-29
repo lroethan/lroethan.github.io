@@ -17,7 +17,7 @@ Publications (<sup>#</sup>Co-first Author)
 2. **Z Pan**, Y Zhang, C Yang, A Ghazal, R Zhang, H Hu, X Wu, Y Dong, X Zhou. *Hyper: Hybrid Physical Design Advisor with Multi-agent Reinforcement Learning.* ICDE. 2025.  
 3. **Z Pan**, J Fang, P Chao, W chen, J Xu, L Zhao. *Garden: A Real-time Processing Framework for Continuous Top-k Trajectory Similarity Search.* KAIS. 2023. 
 4. **Z Pan**, P Chao, J Fang, W Chen, Z Li, A Liu. *TraSP: A General Framework for Online Trajectory Similarity Processing.* WISE. 2020. 
-5. W Sun$<sup>#</sup>, **Z Pan**<sup>#</sup>, Z Hu, Yu L, C Yang, R Zhang, X Zhou. *Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning*. ICDE. 2025.
+5. W Sun<sup>#</sup>, **Z Pan**<sup>#</sup>, Z Hu, Yu L, C Yang, R Zhang, X Zhou. *Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning*. ICDE. 2025.
 5. X Qiu<sup>#</sup>, X Li<sup>#</sup>, R Pang<sup>#</sup>, **Z Pan**<sup>#</sup>, X Wu<sup>#</sup>, L Yang<sup>#</sup>, J Hu, Y Shu, X Lu,C Yang, C Guo, A Zhou, C S. Jensen, B Yang. *EasyTime: Time Series Forecasting Made Easy.* ICDE. 2025. 
 6. C Fan<sup>#</sup>, **Z Pan**<sup>#</sup>, W Sun, C Yang, WN Chen. LATuner: an LLM-enhanced database tuning system based on adaptive surrogate model. ECML. 2024.
 7. C Feng, **Z Pan**, J Fang, J Xu, P Zhao, L Zhao. *Aries: Accurate Metric-based Representation Learning for Fast Top-k Trajectory Similarity Query.* CIKM. 2022. 
