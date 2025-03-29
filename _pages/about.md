@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Zhicheng Pan (潘志诚 in Chinese) is a Third-year Ph.D student at School of Data Science and Engineering, [East China Normal University (ECNU)](https://english.ecnu.edu.cn/). He is currently an ECNU-[PingCAP](https://www.pingcap.com/) joint Ph.D, used to be a Data Dev intern in [Taobao](https://www.taobao.com/) and a Research intern in [Alibaba Cloud](https://www.aliyun.com/). He obtained both of his M.S. degree (2022) and B.S. degree (2019) from School of Computer Science and Technology, [Soochow University](https://www.suda.edu.cn/). His current research interests focus on AI4DB. 
+I am Zhicheng Pan (潘志诚 in Chinese), a third-year Ph.D. student at the School of Data Science and Engineering, [East China Normal University (ECNU)](https://english.ecnu.edu.cn/). I am advised by Prof. Aoying Zhou, and co-advised 
+by Prof. Chengcheng Yang, Prof. Rong Zhang and Prof. Xuan Zhou. Currently, I am a Research intern on the TiDB Optimizer Team at [PingCAP](https://www.pingcap.com/). Previously, I worked as a Data Dev intern in [Taobao](https://www.taobao.com/) and a Research intern in [Alibaba Cloud](https://www.aliyun.com/). I obtained both my M.Eng. degree (2022) and B.Eng. degree (2019) from the School of Computer Science and Technology, [Soochow University](https://www.suda.edu.cn/). My current research interests focus on AI4DB, with a particular focus on AI4Optimizer.
 
 Publications (<sup>#</sup>Co-first Author)
 ------
@@ -16,6 +17,7 @@ Publications (<sup>#</sup>Co-first Author)
 2. **Z Pan**, Y Zhang, C Yang, A Ghazal, R Zhang, H Hu, X Wu, Y Dong, X Zhou. *Hyper: Hybrid Physical Design Advisor with Multi-agent Reinforcement Learning.* ICDE. 2025.  
 3. **Z Pan**, J Fang, P Chao, W chen, J Xu, L Zhao. *Garden: A Real-time Processing Framework for Continuous Top-k Trajectory Similarity Search.* KAIS. 2023. 
 4. **Z Pan**, P Chao, J Fang, W Chen, Z Li, A Liu. *TraSP: A General Framework for Online Trajectory Similarity Processing.* WISE. 2020. 
+5. W Sun$<sup>#</sup>, **Z Pan**<sup>#</sup>, Z Hu, Yu L, C Yang, R Zhang, X Zhou. *Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning*. ICDE. 2025.
 5. X Qiu<sup>#</sup>, X Li<sup>#</sup>, R Pang<sup>#</sup>, **Z Pan**<sup>#</sup>, X Wu<sup>#</sup>, L Yang<sup>#</sup>, J Hu, Y Shu, X Lu,C Yang, C Guo, A Zhou, C S. Jensen, B Yang. *EasyTime: Time Series Forecasting Made Easy.* ICDE. 2025. 
 6. C Fan<sup>#</sup>, **Z Pan**<sup>#</sup>, W Sun, C Yang, WN Chen. LATuner: an LLM-enhanced database tuning system based on adaptive surrogate model. ECML. 2024.
 7. C Feng, **Z Pan**, J Fang, J Xu, P Zhao, L Zhao. *Aries: Accurate Metric-based Representation Learning for Fast Top-k Trajectory Similarity Query.* CIKM. 2022. 
@@ -29,7 +31,6 @@ Publications (<sup>#</sup>Co-first Author)
 15. Y Wu, **Z Pan**, P Chao, J Fang, W Chen, L Zhao. *Lunatory: A Real-Time Distributed Trajectory Clustering Framework for Web Big Data.* ICWE. 2022.
 16. C Fan<sup>#</sup>, **Z Pan**<sup>#</sup>, Y Zhang, L Fan, Q Wen. HANTUNE
 17. **Z Pan**. Unity (Writing)
-18. W Sun<sup>#</sup>, **Z Pan**<sup>#</sup>. Rabbit (ICDE Under Review)
 19. Y Ban<sup>#</sup>, **Z Pan**<sup>#</sup>. SMA-DTW (WWWJ Under Review)
 20. SeeD (TKDE Under Review) 
 21. Z Hu, S Wen, **Z Pan**. (xxx Under Review)
