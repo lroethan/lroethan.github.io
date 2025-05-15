@@ -45,9 +45,9 @@ I am Zhicheng Pan, a third-year Ph.D. student at the School of Data Science and 
 
 #### 2025
 
-- **Z Pan**, Y Zhang, C Yang, A Ghazal, R Zhang, H Hu, X Wu, Y Dong, X Zhou. *Hyper: Hybrid Physical Design Advisor with Multi-agent Reinforcement Learning.* ICDE. 2025.  
-- W Sun<sup>#</sup>, **Z Pan**<sup>#</sup>, Z Hu, Yu L, C Yang, R Zhang, X Zhou. *Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning*. ICDE. 2025.
-- X Qiu<sup>#</sup>, X Li<sup>#</sup>, R Pang<sup>#</sup>, **Z Pan**<sup>#</sup>, X Wu<sup>#</sup>, L Yang<sup>#</sup>, J Hu, Y Shu, X Lu,C Yang, C Guo, A Zhou, C S. Jensen, B Yang. *EasyTime: Time Series Forecasting Made Easy.* ICDE. 2025. 
+- **Z Pan**, Y Zhang, C Yang, A Ghazal, R Zhang, H Hu, X Wu, Y Dong, X Zhou. *Hyper: Hybrid Physical Design Advisor with Multi-agent Reinforcement Learning.* ICDE. 2025:1565-1578. 
+- W Sun<sup>#</sup>, **Z Pan**<sup>#</sup>, Z Hu, Yu L, C Yang, R Zhang, X Zhou. *Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning*. ICDE. 2025:3807-3820.
+- X Qiu<sup>#</sup>, X Li<sup>#</sup>, R Pang<sup>#</sup>, **Z Pan**<sup>#</sup>, X Wu<sup>#</sup>, L Yang<sup>#</sup>, J Hu, Y Shu, X Lu,C Yang, C Guo, A Zhou, C S. Jensen, B Yang. *EasyTime: Time Series Forecasting Made Easy.* ICDE. 2025:4564-4567. 
 - J Li, J Fang, **Z Pan**, P Chao, J Xu, P Zhao. *CF-TS: A General Coarse-to-Fine Method for Trajectory Simplification.* DASFAA. 2025.
 
 #### 2024
