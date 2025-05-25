@@ -29,7 +29,7 @@ I am Zhicheng Pan, a third-year Ph.D. student at the School of Data Science and 
 </div>
 
 <p style="color:#990000; font-weight: bold;">
-<em>I am an incoming Research Assistant at Hong Kong Baptist University, under the supervision of Prof. Jianliang Xu.</em>
+<em>I am actively seeking a postdoctoral position starting in Fall 2026. Please feel free to contact me if interested.</em>
 </p>
 
 
@@ -46,8 +46,8 @@ I am Zhicheng Pan, a third-year Ph.D. student at the School of Data Science and 
 #### 2025
 
 - **Z Pan**, Y Zhang, C Yang, A Ghazal, R Zhang, H Hu, X Wu, Y Dong, X Zhou. *Hyper: Hybrid Physical Design Advisor with Multi-agent Reinforcement Learning.* ICDE. 2025:1565-1578. 
-- W Sun<sup>#</sup>, **Z Pan**<sup>#</sup>, Z Hu, Yu L, C Yang, R Zhang, X Zhou. *Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning*. ICDE. 2025:3807-3820.
-- X Qiu<sup>#</sup>, X Li<sup>#</sup>, R Pang<sup>#</sup>, **Z Pan**<sup>#</sup>, X Wu<sup>#</sup>, L Yang<sup>#</sup>, J Hu, Y Shu, X Lu,C Yang, C Guo, A Zhou, C S. Jensen, B Yang. *EasyTime: Time Series Forecasting Made Easy.* ICDE. 2025:4564-4567. 
+- W Sun<sup>#</sup>, **Z Pan**<sup>#</sup>, Z Hu, Y Liu, C Yang, R Zhang, X Zhou. *Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning*. ICDE. 2025:3807-3820.
+- X Qiu<sup>#</sup>, X Li<sup>#</sup>, R Pang<sup>#</sup>, **Z Pan**<sup>#</sup>, X Wu<sup>#</sup>, L Yang<sup>#</sup>, J Hu, Y Shu, X Lu, C Yang, C Guo, A Zhou, C S. Jensen, B Yang. *EasyTime: Time Series Forecasting Made Easy.* ICDE. 2025:4564-4567. 
 - J Li, J Fang, **Z Pan**, P Chao, J Xu, P Zhao. *CF-TS: A General Coarse-to-Fine Method for Trajectory Simplification.* DASFAA. 2025.
 
 #### 2024
@@ -72,8 +72,8 @@ I am Zhicheng Pan, a third-year Ph.D. student at the School of Data Science and 
 #### Work in Progress
 - C Fan<sup>#</sup>, **Z Pan**<sup>#</sup>, Y Zhang, L Fan, Q Wen. HANTUNE
 - **Z Pan**. Unity (Writing)
-- OQO (Writing)
-- Y Han, **Z Pan** Q-Doctor
+- BayesPlan (Writing)
+- Y Han<sup>#</sup>, **Z Pan**<sup>#</sup>. Q-Doctor (CIKM Under Review)
 - Y Ban<sup>#</sup>, **Z Pan**<sup>#</sup>. SMA-DTW (WWWJ Under Review)
 - SeeD (PR Under Review) 
 - Z Hu, S Wen, **Z Pan**. (VLDB Under Review)
@@ -83,9 +83,9 @@ I am Zhicheng Pan, a third-year Ph.D. student at the School of Data Science and 
 ## Others
 
 - 入选首届青年人才托举工程博士专项
-- 华东师范大学“优秀博士生学术创新能力提升计划”（主持）
+- 华东师范大学“优秀博士生学术创新能力提升计划”（主持）【已结项】
 - 国家/行业标准《信息技术 通用时空信息应用支撑平台参考架构》（主要执笔人）
-- 江苏省研究生实践创新计划项目“面向大规模轨迹流数据的分布式实时管理及查询研究”（主持）
+- 江苏省研究生实践创新计划项目“面向大规模轨迹流数据的分布式实时管理及查询研究”（主持）【已结项】
 - 2023年度中国数据库学院暑期学校优秀学员一等奖
 - 2023年数据科学与工程学院企业奖学金一等奖
 - 2023年学生科创成果展“自治云原生数据库系统研究”，最受欢迎奖
