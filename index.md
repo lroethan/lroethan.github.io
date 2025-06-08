@@ -50,11 +50,9 @@ I am Zhicheng Pan, a third-year Ph.D. student at the School of Data Science and 
 - X Qiu<sup>#</sup>, X Li<sup>#</sup>, R Pang<sup>#</sup>, **Z Pan**<sup>#</sup>, X Wu<sup>#</sup>, L Yang<sup>#</sup>, J Hu, Y Shu, X Lu, C Yang, C Guo, A Zhou, C S. Jensen, B Yang. *EasyTime: Time Series Forecasting Made Easy.* **<span style="color:red">ICDE</span>**. 2025:4564-4567. 
 - J Li, J Fang, **Z Pan**, P Chao, J Xu, P Zhao. *CF-TS: A General Coarse-to-Fine Method for Trajectory Simplification.* DASFAA. 2025.
 
-#### 2024
+#### 2023 - 2024
 - C Fan<sup>#</sup>, **Z Pan**<sup>#</sup>, W Sun, C Yang, WN Chen. LATuner: an LLM-enhanced database tuning system based on adaptive surrogate model. ECML. 2024.
 - T Gu, J Fang, **Z Pan**, Y Wu, Y Ban, P Chao, L Zhao. *HPS: A novel heuristic hierarchical pruning strategy for dynamic top-k trajectory similarity query.* IPM. 2024.
-
-#### 2023
 -  **Z Pan**, Y Wang, Y Zhang, SB Yang, Y Cheng, P Chen, C Guo, Q Wen, X Tian, Y Dou, Z Zhou, C Yang, A Zhou, B Yang. *MagicScaler: Uncertainty-aware, Predictive Autoscaling.* **<span style="color:red">PVLDB</span>**. 2023. 
 - **Z Pan**, J Fang, P Chao, W chen, J Xu, L Zhao. *Garden: A Real-time Processing Framework for Continuous Top-k Trajectory Similarity Search.* KAIS. 2023. 
 
