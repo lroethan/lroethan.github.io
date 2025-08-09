@@ -79,15 +79,11 @@ I am Zhicheng Pan, a third-year Ph.D. student at the School of Data Science and 
 
 ---
 
-## Others
+## Awards
 
-- 入选**<span style="color:red">首届青年人才托举工程</span>**博士专项
-- 华东师范大学“优秀博士生学术创新能力提升计划”（主持）【已结项】
-- 国家/行业标准《信息技术 通用时空信息应用支撑平台参考架构》（主要执笔人）
-- 江苏省研究生实践创新计划项目“面向大规模轨迹流数据的分布式实时管理及查询研究”（主持）【已结项】
-- 2023年度中国数据库学院暑期学校优秀学员一等奖
-- 2023年数据科学与工程学院企业奖学金一等奖
-- 2023年学生科创成果展“自治云原生数据库系统研究”，最受欢迎奖
-- 华东师范大学“优秀学生”称号（2024）
-- 入选第四届CCF优秀大学生学术秀 (2024)
-- 苏州大学优秀毕业生（2019）、苏州大学特等奖学金（2021）、苏州大学优秀毕业生（2022）
+- 1st Young Elite Scientists Sponsorship Program (Doctoral Program), China Association for Science and Technology (CAST). 3,226 nationwide.
+- Outstanding Student Honor, East China Normal University, 2024.
+- ECNU Academic Innovation Promotion Program for Excellent Doctoral Students (YBNLTS2024-017) 
+- First Prize for Outstanding Student, VLDB Summer School, 2023  (1st Place).
+- First Prize, Industry Scholarship, School of Data Science and Engineering, 2023 (1st Place).
+- Postgraduate Research & Practice Innovation Program of Jiangsu Province (SJCX2_11342)
