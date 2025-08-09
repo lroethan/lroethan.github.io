@@ -19,8 +19,10 @@ layout: page
 
 <div class="about-me-container">
 <p>
-I am Zhicheng Pan, a third-year Ph.D. student at the School of Data Science and Engineering, <a href="https://english.ecnu.edu.cn/">East China Normal University (ECNU)</a>. I am advised by Prof. Aoying Zhou, and co-advised by Prof. Chengcheng Yang. Currently, I am a Research intern on the TiDB Optimizer Team at <a href="https://www.pingcap.com/">PingCAP</a>. Previously, I worked as a Data Dev intern in <a href="https://www.taobao.com/">Taobao</a> and a Research intern in <a href="https://www.aliyun.com/">Alibaba Cloud</a>. I obtained both my M.Eng. degree (2022) and B.Eng. degree (2019) from the School of Computer Science and Technology, <a href="https://www.suda.edu.cn/">Soochow University</a>. My current research interests focus on AI4DB, with a particular focus on AI4Optimizer.
+I am Zhicheng Pan, a third-year Ph.D. student at the School of Data Science and Engineering, <a href="https://english.ecnu.edu.cn/">East China Normal University (ECNU)</a>. I am advised by Prof. Aoying Zhou, and co-advised by Prof. Chengcheng Yang. Currently, I am a Research intern on the TiDB Optimizer Team at <a href="https://www.pingcap.com/">PingCAP</a>. Previously, I worked as a Data Dev intern in <a href="https://www.taobao.com/">Taobao</a> and a Research intern in <a href="https://www.aliyun.com/">Alibaba Cloud</a>. My current research interests focus on AI4DB, with a particular focus on AI4Optimizer.
 </p>
+
+<!-- I obtained both my M.Eng. degree (2022) and B.Eng. degree (2019) from the School of Computer Science and Technology, <a href="https://www.suda.edu.cn/">Soochow University</a>.  -->
 
 <img src="/images/zhichengpan.jpg" class="floatpic">
 
