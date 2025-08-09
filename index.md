@@ -67,14 +67,15 @@ I am Zhicheng Pan, a third-year Ph.D. student at the School of Data Science and 
 - Y Wu, J Fang, P Chao, **Z Pan**, W Chen, L Zhao. *Towards Adaptive Continuous Trajectory Clustering over Distributed Web Data Stream.* Journal of Web Engineering. 2023.
 - Y Wu, **Z Pan**, P Chao, J Fang, W Chen, L Zhao. *Lunatory: A Real-Time Distributed Trajectory Clustering Framework for Web Big Data.* ICWE. 2022.
 
-#### WAITING FOR MORE
+<!-- #### WAITING FOR MORE
 - **Z Pan**. Unity (Writing)
 - **Z Pan**. Obelisk (Focus on it)
-- Z Hu, S Wen, **Z Pan**. *** (VLDB Under Review)
+- Bug Reduction (VLDB Under Review)
+- HTAP Benchmark *** (VLDB Under Review)
 - Y Han<sup>#</sup>, **Z Pan**<sup>#</sup>. Q-Doctor (CIKM Under Review)
 - Y Ban<sup>#</sup>, **Z Pan**<sup>#</sup>. SMA-DTW (WWWJ Under Review)
-- SeeD (PR Under Review) 
-- C Fan<sup>#</sup>, **Z Pan**<sup>#</sup>, Y Zhang, L Fan, Q Wen. HANTUNE
+- SeeD (PR Revision) 
+- C Fan<sup>#</sup>, **Z Pan**<sup>#</sup>, Y Zhang, L Fan, Q Wen. HANTUNE -->
 
 ---
 
