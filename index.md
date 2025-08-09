@@ -30,9 +30,9 @@ I am Zhicheng Pan, a third-year Ph.D. student at the School of Data Science and 
 
 </div>
 
-<p style="color:#990000; font-weight: bold;">
+<!-- <p style="color:#990000; font-weight: bold;">
 <em>I am actively seeking a postdoctoral position starting in Fall 2026. Please feel free to contact me if interested.</em>
-</p>
+</p> -->
 
 
 ## Research Interests
