@@ -88,4 +88,5 @@ I am Zhicheng Pan, a third-year Ph.D. student at the School of Data Science and 
 - ECNU Academic Innovation Promotion Program for Excellent Doctoral Students (YBNLTS2024-017) 
 - First Prize for Outstanding Student, VLDB Summer School, 2023  (1st Place).
 - First Prize, Industry Scholarship, School of Data Science and Engineering, 2023 (1st Place).
-- Postgraduate Research & Practice Innovation Program of Jiangsu Province (SJCX2_11342)
+- Postgraduate Research & Practice Innovation Program of Jiangsu Province (SJCX2_11342).
+- Outstanding Graduagte, Soochow University, 2019 & 2022.
