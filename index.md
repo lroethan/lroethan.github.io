@@ -45,21 +45,16 @@ I am Zhicheng Pan, a third-year Ph.D. student at the School of Data Science and 
 ---
 ## Publications (<sup>#</sup>Co-first Author)
 
-#### 2025
 
 - **Z Pan**, Y Zhang, C Yang, A Ghazal, R Zhang, H Hu, X Wu, Y Dong, X Zhou. *Hyper: Hybrid Physical Design Advisor with Multi-agent Reinforcement Learning.* **<span style="color:red">ICDE</span>**. 2025:1565-1578. 
 - W Sun<sup>#</sup>, **Z Pan**<sup>#</sup>, Z Hu, Y Liu, C Yang, R Zhang, X Zhou. *Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning*. **<span style="color:red">ICDE</span>**. 2025:3807-3820.
 - X Qiu<sup>#</sup>, X Li<sup>#</sup>, R Pang<sup>#</sup>, **Z Pan**<sup>#</sup>, X Wu<sup>#</sup>, L Yang<sup>#</sup>, J Hu, Y Shu, X Lu, C Yang, C Guo, A Zhou, C S. Jensen, B Yang. *EasyTime: Time Series Forecasting Made Easy.* **<span style="color:red">ICDE</span>**. 2025:4564-4567. 
+- J Fang, J Li, **Z Pan**, C Feng, J Xu, P Zhao. *SeeD: Online Similarity-Preserving Pattern Discovery for Streaming Trajectories*. Pattern Recognition. 2025.
 - J Li, J Fang, **Z Pan**, P Chao, J Xu, P Zhao. *CF-TS: A General Coarse-to-Fine Method for Trajectory Simplification.* DASFAA. 2025.
-
-#### 2023 - 2024
 - C Fan<sup>#</sup>, **Z Pan**<sup>#</sup>, W Sun, C Yang, WN Chen. LATuner: an LLM-enhanced database tuning system based on adaptive surrogate model. ECML. 2024.
 - T Gu, J Fang, **Z Pan**, Y Wu, Y Ban, P Chao, L Zhao. *HPS: A novel heuristic hierarchical pruning strategy for dynamic top-k trajectory similarity query.* IPM. 2024.
 -  **Z Pan**, Y Wang, Y Zhang, SB Yang, Y Cheng, P Chen, C Guo, Q Wen, X Tian, Y Dou, Z Zhou, C Yang, A Zhou, B Yang. *MagicScaler: Uncertainty-aware, Predictive Autoscaling.* **<span style="color:red">PVLDB</span>**. 2023. 
 - **Z Pan**, J Fang, P Chao, W chen, J Xu, L Zhao. *Garden: A Real-time Processing Framework for Continuous Top-k Trajectory Similarity Search.* KAIS. 2023. 
-
-#### Earlier
-
 - **Z Pan**, P Chao, J Fang, W Chen, Z Li, A Liu. *TraSP: A General Framework for Online Trajectory Similarity Processing.* WISE. 2020. 
 - C Feng, **Z Pan**, J Fang, J Xu, P Zhao, L Zhao. *Aries: Accurate Metric-based Representation Learning for Fast Top-k Trajectory Similarity Query.* CIKM. 2022. 
 - J Tao, **Z Pan**, J Fang, P Chao, P Zhao, J Xu. *Misty: Microservice-based Streaming Trajectory Similarity Search.* ICSOC. 2022.
@@ -81,7 +76,7 @@ I am Zhicheng Pan, a third-year Ph.D. student at the School of Data Science and 
 
 ---
 
-## Awards
+## Awards and Grants
 
 - 1st Young Elite Scientists Sponsorship Program (Doctoral Program), China Association for Science and Technology (CAST). 3,226 nationwide.
 - Outstanding Student Honor, East China Normal University, 2024.
