@@ -10,7 +10,7 @@ html, body { font-family: "Times New Roman", Times, serif; }
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 20px;">
   <div style="flex: 1;">
-    I am Zhicheng Pan, a final-year Ph.D. student at  School of Data Science and Engineering, <a href="https://english.ecnu.edu.cn/">East China Normal University (ECNU)</a>. I am advised by Prof. Aoying Zhou, and co-advised by Prof. Chengcheng Yang. Currently, I am a Research intern on the TiDB Optimizer Team at <a href="https://www.pingcap.com/">PingCAP</a>. Previously, I worked as a Data Dev intern in <a href="https://www.taobao.com/">Taobao</a> and a Research intern in <a href="https://www.aliyun.com/">Alibaba Cloud</a>. My current research interests focus on AI4DB, with a particular focus on AI4Optimizer.
+    I am a final-year Ph.D. student at  School of Data Science and Engineering, <a href="https://english.ecnu.edu.cn/">East China Normal University (ECNU)</a>. I am co-advised by Prof. Aoying Zhou and Prof. Chengcheng Yang. Currently, I am a Research intern on the TiDB Optimizer Team at <a href="https://www.pingcap.com/">PingCAP</a>. Previously, I worked as a Data Dev intern in <a href="https://www.taobao.com/">Taobao</a> and a Research intern in <a href="https://www.aliyun.com/">Alibaba Cloud</a>.  I also visited the Department of Computer Science at Hong Kong Baptist University (HKBU) and collaborated with Prof. Jianliang Xu. My current research interests focus on AI4DB, with a particular emphasis on AI4Optimizer.
   </div>
   <div style="flex-shrink: 0;">
     <img src="/asset/me.png" style="width: 180px; height: auto; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
@@ -30,7 +30,7 @@ html, body { font-family: "Times New Roman", Times, serif; }
 
 ---
 
-## Selected Publications (<sup>#</sup>Co-first Author)
+## Selected Publications (<sup>#</sup>=Co-first/Corr. Author)
 
 * **[PVLDB'26]** *Vodka: Rethink Benchmarking Philosophy in HTAP Systems*<br>
  Z Hu, S Weng, **Z Pan**, R Zhang, C Yang, P Cai, X Zhou, Q Xu, C Yang.
@@ -93,7 +93,7 @@ Y Xia, J Fang, P Chao, **Z Pan**, J S. Shang.
 
 ## Awards and Grants
 
-- 1st Young Elite Scientists Sponsorship Program (Doctoral Program), China Association for Science and Technology (CAST). 3,226 nationwide.
+- 1st Young Elite Scientists Sponsorship Program (Doctoral Program), China Association for Science and Technology (CAST). 3,226 nationwide. （中国科协青年人才托举工程博士生专项计划）
 - Outstanding Student Honor, East China Normal University, 2024.
 - ECNU Academic Innovation Promotion Program for Excellent Doctoral Students (YBNLTS2024-017) 
 - First Prize for Outstanding Student, VLDB Summer School, 2023 (1st Place).
