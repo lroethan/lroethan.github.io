@@ -6,16 +6,11 @@ layout: null
 html, body { font-family: "Times New Roman", Times, serif; }
 </style>
 
-# Zhicheng Pan（潘志诚）
+# Zhicheng Pan<span style="font-family: KaiTi, STKaiti, '楷体', serif;">（潘志诚）</span>
 
-<div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 20px;">
-  <div style="flex: 1;">
-    I am a final-year Ph.D. student at  School of Data Science and Engineering, <a href="https://english.ecnu.edu.cn/">East China Normal University (ECNU)</a>. I am co-advised by Prof. Aoying Zhou and Prof. Chengcheng Yang. Currently, I am a Research intern on the TiDB Optimizer Team at <a href="https://www.pingcap.com/">PingCAP</a>. Previously, I worked as a Data Dev intern in <a href="https://www.taobao.com/">Taobao</a> and a Research intern in <a href="https://www.aliyun.com/">Alibaba Cloud</a>.  I also visited the Department of Computer Science at Hong Kong Baptist University (HKBU) and collaborated with Prof. Jianliang Xu. My current research interests focus on AI4DB, with a particular emphasis on AI4Optimizer.
-  </div>
-  <div style="flex-shrink: 0;">
-    <img src="/asset/me.png" style="width: 180px; height: auto; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-  </div>
-</div>
+I am a final-year Ph.D. student at  School of Data Science and Engineering, <a href="https://english.ecnu.edu.cn/">East China Normal University (ECNU)</a>. I am co-advised by Prof. Aoying Zhou and Prof. Chengcheng Yang. Currently, I am a Research intern on the TiDB Optimizer Team at <a href="https://www.pingcap.com/">PingCAP</a>. Previously, I worked as a Data Dev intern in <a href="https://www.taobao.com/">Taobao</a> and a Research intern in <a href="https://www.aliyun.com/">Alibaba Cloud</a>.  I also visited the <a href="https://www.comp.hkbu.edu.hk/~db/">Database Research Group </a> at <a href="https://www.hkbu.edu.hk/">Hong Kong Baptist University (HKBU)</a> and collaborated with Prof. Jianliang Xu. My current research interests focus on <a href="https://en.wikipedia.org/wiki/Query_optimization">Query Optimization (QO) </a> in relational database systems.
+
+<img src="/asset/me.png" width="200">
 
 <!-- <p style="color:#990000; font-weight: bold;">
 <em>I am actively seeking a postdoctoral position starting in Fall 2026. Please feel free to contact me if interested.</em>
