@@ -95,4 +95,5 @@ Y Xia, J Fang, P Chao, **Z Pan**, J S. Shang.
 - First Prize, Industry Scholarship, School of Data Science and Engineering, 2023 (1st Place).
 - Postgraduate Research & Practice Innovation Program of Jiangsu Province (SJCX2_11342).
 - Outstanding Graduate, Soochow University, 2019 & 2022.
+- "Information technology-General spatiotemporal information application support platform-Reference architecture" (T/CIE 131-2022). Main Drafter. 
 
