@@ -8,7 +8,7 @@ html, body { font-family: "Times New Roman", Times, serif; }
 
 # Zhicheng Pan<span style="font-family: KaiTi, STKaiti, '楷体', serif;">（潘志诚）</span>
 
-I am a final-year Ph.D. student at  School of Data Science and Engineering, <a href="https://english.ecnu.edu.cn/">East China Normal University (ECNU)</a>. I am co-advised by Prof. Aoying Zhou and Prof. Chengcheng Yang. Besides, I am now a Research intern in Tencent (fortunately collaborated with Huichao Duan). Proior to it, I worked in <a href="https://www.taobao.com/">Taobao</a>, <a href="https://www.aliyun.com/">Alibaba Cloud</a> (fortunately collaborated with Yingying Zhang and Qingsong Wen), <a href="https://www.pingcap.com/">PingCAP</a> (fortunately collaborated with Yuanjia Zhang and Yu Dong).  I also visited the <a href="https://www.comp.hkbu.edu.hk/~db/">Database Research Group </a> at <a href="https://www.hkbu.edu.hk/">Hong Kong Baptist University (HKBU)</a> and collaborated with IEEE Fellow Prof. Jianliang Xu. My current research interests focus on <a href="https://en.wikipedia.org/wiki/Query_optimization">Query Optimization (QO) </a> in relational database systems.
+I am a Ph.D. student at School of Data Science and Engineering, <a href="https://english.ecnu.edu.cn/">East China Normal University (ECNU)</a>. I am co-advised by Prof. Aoying Zhou and Prof. Chengcheng Yang. I am currently a Research Intern at Tencent. Proior to this, I worked in <a href="https://www.taobao.com/">Taobao</a>, <a href="https://www.aliyun.com/">Alibaba Cloud</a>, <a href="https://www.pingcap.com/">PingCAP</a>. It was a great pleasure to collaborate with technical experts like Yuanjia Zhang during my internship. I also visited the <a href="https://www.comp.hkbu.edu.hk/~db/">Database Research Group </a> at <a href="https://www.hkbu.edu.hk/">Hong Kong Baptist University (HKBU)</a> and collaborated with IEEE Fellow Prof. Jianliang Xu. My current research interests focus on <a href="https://en.wikipedia.org/wiki/Query_optimization">Query Optimization (QO) </a> in relational database systems.
 
 <img src="/asset/me.png" width="200">
 
@@ -32,6 +32,9 @@ Z Hu, S Weng, **Z Pan**, R Zhang, C Yang, P Cai, X Zhou, Q Xu, C Yang.
 
 * **[PVLDB'26]** *Pisco: An Isolation Bug Case Reduction and Deduplication Framework*<br>
 S Weng, H Yang, Z Hu, R Zhang, **Z Pan**, C Yang, X Zhou, Y Chen, X He, A Pan.
+
+* **[DASFAA'26]** *Q-Doctor: Retrieval-Augmented Diagnosis and Multi-Agent Correction for Query Performance Anomalies*<br>
+Y Han, **Z Pan**, L Chen, C Yang, R Zhang, X Zhou.
 
 * **[ICDE'25]** *Hyper: Hybrid Physical Design Advisor with Multi-agent Reinforcement Learning*<br>
 **Z Pan**, Y Zhang, C Yang, A Ghazal, R Zhang, H Hu, X Wu, Y Dong, X Zhou.
