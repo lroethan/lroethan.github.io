@@ -25,7 +25,7 @@ I am a Ph.D. student at School of Data Science and Engineering, <a href="https:/
 
 ---
 
-## Selected Publications (<sup>#</sup>=Co-first/Corr. Author)
+## Selected Publications (<sup>#</sup>=Co-first, <sup>*</sup>=Corr. Author)
 
 * **[PVLDB'26]** *Vodka: Rethink Benchmarking Philosophy in HTAP Systems*<br>
 Z Hu, S Weng, **Z Pan**, R Zhang, C Yang, P Cai, X Zhou, Q Xu, C Yang.
@@ -34,7 +34,7 @@ Z Hu, S Weng, **Z Pan**, R Zhang, C Yang, P Cai, X Zhou, Q Xu, C Yang.
 S Weng, H Yang, Z Hu, R Zhang, **Z Pan**, C Yang, X Zhou, Y Chen, X He, A Pan.
 
 * **[DASFAA'26]** *Q-Doctor: Retrieval-Augmented Diagnosis and Multi-Agent Correction for Query Performance Anomalies*<br>
-Y Han, **Z Pan**, L Chen, C Yang, R Zhang, X Zhou.
+Y Han, **Z Pan<sup>*</sup>**, L Chen, C Yang, R Zhang, X Zhou.
 
 * **[ICDE'25]** *Hyper: Hybrid Physical Design Advisor with Multi-agent Reinforcement Learning*<br>
 **Z Pan**, Y Zhang, C Yang, A Ghazal, R Zhang, H Hu, X Wu, Y Dong, X Zhou.
