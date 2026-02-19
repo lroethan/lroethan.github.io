@@ -20,12 +20,15 @@ I am a Ph.D. student at School of Data Science and Engineering, <a href="https:/
 ## Research Interests
 
 - Query Optimization
-- Configuration Tuning
+- Autonomous Database
 - LLM x Data
 
 ---
 
 ## Selected Publications (<sup>#</sup>=Co-first, <sup>*</sup>=Corr. Author)
+
+* **[PVLDB'26]** *OBELISK: Efficient Offline Query Planning with Bayesian Optimization-Informed Language Model Reasoning*<br>
+**Z Pan**, W Sun, Y Zhang, T Purcell, Y Dong, C Yang, R Zhang, X Zhou, J Xu.
 
 * **[PVLDB'26]** *Vodka: Rethink Benchmarking Philosophy in HTAP Systems*<br>
 Z Hu, S Weng, **Z Pan**, R Zhang, C Yang, P Cai, X Zhou, Q Xu, C Yang.
