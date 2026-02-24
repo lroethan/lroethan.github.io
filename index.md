@@ -40,7 +40,7 @@ S Weng, H Yang, Z Hu, R Zhang, **Z Pan**, C Yang, X Zhou, Y Chen, X He, A Pan.
 L Chen<sup>#</sup>, Q Zheng<sup>#</sup>, **Z Pan**<sup>#</sup>, C Yang, R Zhang, X Zhou.
 
 * **[ICDE'26]** *APEX: Adaptive Variable-wise Parallel Execution for Worst-Case Optimal Joins on Graph Queries*<br>
-Z Y Liu, Yuming Lin, **Z Pan**, C Yang, Y Li, A Zhou.
+Z Y Liu, Y Lin, **Z Pan**, C Yang, Y Li, A Zhou.
 
 * **[DASFAA'26]** *Q-Doctor: Retrieval-Augmented Diagnosis and Multi-Agent Correction for Query Performance Anomalies*<br>
 Y Han, **Z Pan<sup>*</sup>**, L Chen, C Yang, R Zhang, X Zhou.
