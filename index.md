@@ -36,6 +36,12 @@ Z Hu, S Weng, **Z Pan**, R Zhang, C Yang, P Cai, X Zhou, Q Xu, C Yang.
 * **[PVLDB'26]** *Pisco: An Isolation Bug Case Reduction and Deduplication Framework*<br>
 S Weng, H Yang, Z Hu, R Zhang, **Z Pan**, C Yang, X Zhou, Y Chen, X He, A Pan.
 
+* **[ICDE'26]** *BOND: A Co-Designed Framework for LLM-Powered Analytics Over Relational Data*<br>
+L Chen<sup>#</sup>, Q Zheng<sup>#</sup>, **Z Pan**<sup>#</sup>, C Yang, R Zhang, X Zhou.
+
+* **[ICDE'26]** *APEX: Adaptive Variable-wise Parallel Execution for Worst-Case Optimal Joins on Graph Queries*<br>
+Z Y Liu, Yuming Lin, **Z Pan**, C Yang, Y Li, A Zhou.
+
 * **[DASFAA'26]** *Q-Doctor: Retrieval-Augmented Diagnosis and Multi-Agent Correction for Query Performance Anomalies*<br>
 Y Han, **Z Pan<sup>*</sup>**, L Chen, C Yang, R Zhang, X Zhou.
 
