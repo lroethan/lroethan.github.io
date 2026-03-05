@@ -26,7 +26,43 @@ I am a Ph.D. student at School of Data Science and Engineering, <a href="https:/
 ---
 
 ## Selected Publications (<sup>#</sup>=Co-first, <sup>*</sup>=Corr. Author)
+* **Z Pan**, W Sun, Y Zhang, T Purcell, Y Dong, C Yang, R Zhang, X Zhou, J Xu. *OBELISK: Efficient Offline Query Planning with Bayesian Optimization-Informed Language Model Reasoning*. PVLDB'26. **CCF-A**
 
+* **Z Pan**, Y Zhang, C Yang, A Ghazal, R Zhang, H Hu, X Wu, Y Dong, X Zhou. *Hyper: Hybrid Physical Design Advisor with Multi-agent Reinforcement Learning*. ICDE'25. **CCF-A**
+
+* **Z Pan**, Y Wang, Y Zhang, SB Yang, Y Cheng, P Chen, C Guo, Q Wen, X Tian, Y Dou, Z Zhou, C Yang, A Zhou, B Yang. *MagicScaler: Uncertainty-aware, Predictive Autoscaling*. PVLDB'23. **CCF-A**
+
+* **Z Pan**, J Fang, P Chao, W Chen, J Xu, L Zhao. *Garden: A Real-time Processing Framework for Continuous Top-k Trajectory Similarity Search*. KAIS'23. **CCF-B**
+
+* **Z Pan**, P Chao, J Fang, W Chen, Z Li, A Liu. *TraSP: A General Framework for Online Trajectory Similarity Processing*. WISE. **CCF-B**
+
+* Z Hu, S Weng, **Z Pan**, R Zhang, C Yang, P Cai, X Zhou, Q Xu, C Yang. *Vodka: Rethink Benchmarking Philosophy in HTAP Systems*. PVLDB'26. **CCF-A**
+
+* S Weng, H Yang, Z Hu, R Zhang, **Z Pan**, C Yang, X Zhou, Y Chen, X He, A Pan. *Pisco: An Isolation Bug Case Reduction and Deduplication Framework*. PVLDB'26. **CCF-A**
+
+* L Chen<sup>#</sup>, Q Zheng<sup>#</sup>, **Z Pan**<sup>#</sup>, C Yang, R Zhang, X Zhou. *BOND: A Co-Designed Framework for LLM-Powered Analytics Over Relational Data*. ICDE'26. **CCF-A**
+
+* Y Liu, Y Lin, **Z Pan**, C Yang, Y Li, A Zhou. *APEX: Adaptive Variable-wise Parallel Execution for Worst-Case Optimal Joins on Graph Queries*. ICDE'26. **CCF-A**
+
+* W Sun<sup>#</sup>, **Z Pan**<sup>#</sup>, Z Hu, Y Liu, C Yang, R Zhang, X Zhou. *Rabbit: Retrieval-Augmented Generation Enables Better Automatic Database Knob Tuning*. ICDE'25. **CCF-A**
+
+* X Qiu<sup>#</sup>, X Li<sup>#</sup>, R Pang<sup>#</sup>, **Z Pan**<sup>#</sup>, X Wu<sup>#</sup>, L Yang<sup>#</sup>, J Hu, Y Shu, X Lu, C Yang, C Guo, A Zhou, C S. Jensen, B Yang. *EasyTime: Time Series Forecasting Made Easy*. ICDE'25. **CCF-A**
+
+* Y Han, **Z Pan<sup>*</sup>**, L Chen, C Yang, R Zhang, X Zhou. *Q-Doctor: Retrieval-Augmented Diagnosis and Multi-Agent Correction for Query Performance Anomalies*. DASFAA'26. **CCF-B**
+
+* J Fang, J Li, C Feng, **Z Pan**, J Xu, P Zhao. *SeeD: Online Similarity-Preserving Pattern Discovery for Streaming Trajectories*. Pattern Recognition'25. **CCF-B**
+
+* J Li, J Fang, **Z Pan**, P Chao, J Xu, P Zhao. *CF-TS: A General Coarse-to-Fine Method for Trajectory Simplification*. DASFAA'25. **CCF-B**
+
+* C Fan<sup>#</sup>, **Z Pan**<sup>#</sup>, W Sun, C Yang, WN Chen. *LATuner: an LLM-enhanced database tuning system based on adaptive surrogate model*. ECML'24. **CCF-B**
+
+* T Gu, J Fang, **Z Pan**, Y Wu, Y Ban, P Chao, L Zhao. *HPS: A novel heuristic hierarchical pruning strategy for dynamic top-k trajectory similarity query*. IPM'24. **CCF-B**
+
+* C Feng, **Z Pan**, J Fang, J Xu, P Zhao, L Zhao. *Aries: Accurate Metric-based Representation Learning for Fast Top-k Trajectory Similarity Query*. CIKM'22. **CCF-B**
+
+* J Tao, **Z Pan**, J Fang, P Chao, P Zhao, J Xu. *Misty: Microservice-based Streaming Trajectory Similarity Search*. ICSOC'22. **CCF-B**
+
+<!-- 
 * **[PVLDB'26]** *OBELISK: Efficient Offline Query Planning with Bayesian Optimization-Informed Language Model Reasoning*<br>
 **Z Pan**, W Sun, Y Zhang, T Purcell, Y Dong, C Yang, R Zhang, X Zhou, J Xu.
 
@@ -83,7 +119,7 @@ Y Xia, J Fang, P Chao, **Z Pan**, J S. Shang.
 
 
 * **[WISE'20]** *TraSP: A General Framework for Online Trajectory Similarity Processing*<br>
-**Z Pan**, P Chao, J Fang, W Chen, Z Li, A Liu.
+**Z Pan**, P Chao, J Fang, W Chen, Z Li, A Liu. -->
 
 <!-- - C Feng, **Z Pan**, J Fang, P Chao, A Liu, L Zhao. *A Learning-based Approach for Multi-scenario Trajectory Similarity Search.* WISE. 2022. 
 - Y Wu, **Z Pan**, P Chao, J Fang, W Chen, L Zhao. *Lunatory: A Real-Time Distributed Trajectory Clustering Framework for Web Big Data.* ICWE. 2022. -->
