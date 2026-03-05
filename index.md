@@ -48,8 +48,8 @@ I am a Ph.D. student at School of Data Science and Engineering, <a href="https:/
 
 * X Qiu<sup>#</sup>, X Li<sup>#</sup>, R Pang<sup>#</sup>, **Z Pan**<sup>#</sup>, X Wu<sup>#</sup>, L Yang<sup>#</sup>, J Hu, Y Shu, X Lu, C Yang, C Guo, A Zhou, C S. Jensen, B Yang. *EasyTime: Time Series Forecasting Made Easy*. ICDE'25. **CCF-A**
 
-* Y. Han, **Z. Pan**<sup>#</sup>, L. Chen, C. Yang, R. Zhang, X. Zhou.  *Q-Doctor: Retrieval-Augmented Diagnosis and Multi-Agent Correction for Query Performance Anomalies*.  
-DASFAA 2026. **CCF-B**
+* Y Han, **Z Pan**<sup>#</sup>, L Chen, C Yang, R Zhang, X Zhou.  *Q-Doctor: Retrieval-Augmented Diagnosis and Multi-Agent Correction for Query Performance Anomalies*.  
+DASFAA‘26. **CCF-B**
 
 * J Fang, J Li, C Feng, **Z Pan**, J Xu, P Zhao. *SeeD: Online Similarity-Preserving Pattern Discovery for Streaming Trajectories*. Pattern Recognition'25. **CCF-B**
 
