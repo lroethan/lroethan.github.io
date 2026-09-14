@@ -4,6 +4,6 @@ collection: publications
 category: first_author
 permalink: /publication/2020-10-01-trasp-online-trajectory-similarity-processing
 date: 2020-10-01
-venue: 'WISE&apos;20'
-citation: '<strong>Z Pan</strong>, P Chao, J Fang, W Chen, Z Li, A Liu. <i>TraSP: A General Framework for Online Trajectory Similarity Processing</i>. WISE. <strong>CCF-B</strong>'
+venue: '<i>International Conference on Web Information Systems Engineering</i> (<strong>WISE</strong>)'
+citation: '<strong>Z Pan</strong>, P Chao, J Fang, W Chen, Z Li, A Liu. <i>TraSP: A General Framework for Online Trajectory Similarity Processing</i>. <i>International Conference on Web Information Systems Engineering</i> (<strong>WISE</strong>).'
 ---

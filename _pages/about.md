@@ -25,8 +25,13 @@ I previously visited the Database Research Group at <a href="https://www.hkbu.ed
 {% endfor %}
 
 {% assign coauthored_publications = site.publications | where: "category", "coauthored" | sort: "date" | reverse %}
+{% assign featured_publication = coauthored_publications | where: "permalink", "/publication/2026-01-01-q-doctor-query-performance-anomalies" | first %}
+* {{ featured_publication.citation }}
+
 {% for publication in coauthored_publications %}
+{% unless publication.permalink == featured_publication.permalink %}
 * {{ publication.citation }}
+{% endunless %}
 {% endfor %}
 
 ## Awards and Grants {#awards-and-grants}
