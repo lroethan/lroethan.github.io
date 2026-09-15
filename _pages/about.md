@@ -13,6 +13,8 @@ I previously visited the Database Research Group at <a href="https://www.hkbu.ed
 
 ## News {#news}
 
+- Our paper Metis, on generating enhanced statistics for cardinality estimation, has been accepted to VLDB 2027. Congratulations to Xuhua!
+
 - We released a benchmark for personalized agent memory. ([arXiv](https://arxiv.org/pdf/2607.27056))
 
 ## Selected Publications {#selected-publications}
