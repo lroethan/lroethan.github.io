@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am now a postdoctoral fellow at <a href="https://www.cuhk.edu.hk/english/">The Chinese University of Hong Kong (CUHK)</a>, where I work with <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-wang-sibo/">Prof. Sibo Wang</a>. I received my Ph.D. from the School of Data Science and Engineering at <a href="https://english.ecnu.edu.cn/">East China Normal University (ECNU)</a>, advised by <a href="https://baike.baidu.com/en/item/Zhou%20Aoying/34989">Prof. Aoying Zhou</a> and <a href="https://ychengc.github.io/">Prof. Chengcheng Yang</a>. My current research interests center on the interaction between large language models and query optimizers.
+I am now a postdoctoral fellow at <a href="https://www.cuhk.edu.hk/english/">The Chinese University of Hong Kong (CUHK)</a>, where I work with <a href="https://www.se.cuhk.edu.hk/people/academic-staff/prof-wang-sibo/">Prof. Sibo Wang</a>. I received my Ph.D. from the School of Data Science and Engineering at <a href="https://english.ecnu.edu.cn/">East China Normal University (ECNU)</a>, advised by <a href="https://baike.baidu.com/en/item/Zhou%20Aoying/34989">Prof. Aoying Zhou</a> and <a href="https://ychengc.github.io/">Prof. Chengcheng Yang</a>. My current research interests primarily include the intersection of large language models and databases, as well as industrial-grade query optimizer design.
 
 I previously visited the Database Research Group at <a href="https://www.hkbu.edu.hk/">Hong Kong Baptist University (HKBU)</a>, where I collaborated with IEEE Fellow <a href="https://www.comp.hkbu.edu.hk/~xujl/">Prof. Jianliang Xu</a>. I have also worked as a research intern at Tencent with Huichao Duan, at PingCAP TiDB with Yuanjia Zhang, Terry Purcell, and Yu Dong, and at Alibaba Cloud with Yingying Zhang and Qingsong Wen. Earlier, I was a data development intern at Taobao, working with Huajun Deng.
 
 ## News {#news}
 
-- Our paper Metis, on generating enhanced statistics for cardinality estimation, has been accepted to VLDB 2027. Congratulations to Xuhua!
+- 16/09/2026: A paper on cardinality estimation has been accepted to VLDB 2027.
 
 - We released a benchmark for personalized agent memory. ([arXiv](https://arxiv.org/pdf/2607.27056))
 
