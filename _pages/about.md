@@ -40,6 +40,7 @@ I previously visited the Database Research Group at <a href="https://www.hkbu.ed
 
 - Shanghai Outstanding Graduate, 2026. （上海市优秀毕业生）
 - 1st Young Elite Scientists Sponsorship Program (Doctoral Program), China Association for Science and Technology (CAST). 3,226 nationwide. （中国科协青年人才托举工程博士生专项计划）
+- Outstanding Doctoral Dissertation, 2026.
 - Outstanding Student Honor, East China Normal University, 2024.
 - ECNU Academic Innovation Promotion Program for Excellent Doctoral Students (YBNLTS2024-017).
 - First Prize for Outstanding Student, VLDB Summer School, 2023 (1st Place).
