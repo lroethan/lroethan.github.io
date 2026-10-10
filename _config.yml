@@ -23,7 +23,7 @@ repository               : "lroethan/lroethan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.jpg"
+  avatar           : "portrait.png"
   name             : "Zhicheng Pan"
   pronouns         : # example: "she/her"  
   bio              : "Surrender as late as possible."
